@@ -1,0 +1,61 @@
+h2{
+  font-size:11px;
+  font-weight: 900;
+  position: relative;
+  right:6%;
+}
+h1{
+margin-bottom: 40px;
+}
+.plan-type{
+  padding:3px;
+  font-size: 9px;
+  color:white;
+  font-weight: 500;
+  width:40%;
+  position: relative;
+  right:10.1%;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-bottom: 8px;
+}
+i.fa.fa-check{
+  font-size: x-small;
+}
+.suit{
+  margin-top: 5px;
+  font-size: x-small;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.bold{
+  font-size: 15px;
+  font-weight: bold;
+}
+.saurabh{
+  font-size: 7.5px;
+  color:blue;
+  font-weight: bold;
+}
+.card{
+  border-radius: 10px;
+}
+.original{
+  position:absolute;
+  right:2%;
+  top:82%;
+  text-decoration: line-through;
+}
+.price{
+  font-weight: bolder;
+}
+button.btn.btn-primary{
+  margin-top: 10px;
+  background-color:darkblue;
+  width:100%;
+  font-size:x-small;
+  transition: all 500ms ease;
+}
+button.btn.btn-primary:hover{
+  transform: scale(1.1);
+}
